@@ -1,0 +1,6 @@
+.pytest_cache
+build
+dist
+ijq.egg-info
+/build/
+.idea
