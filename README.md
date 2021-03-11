@@ -6,7 +6,7 @@ python setup.py install
 curl -iX GET "https://petstore.swagger.io/v2/pet/1" -H  "accept: application/json" | ijq
 ```
 to get:
-```text
+```bash
 HTTP/2 200 
 date: Thu, 11 Mar 2021 12:49:12 GMT
 content-type: application/json
