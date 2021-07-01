@@ -1,4 +1,9 @@
 # IJQ
+## Install
+```bash
+pip install git+git://github.com/1frag/ijq.git#egg=ijq
+```
+
 ## Usage
 Type:
 ```bash
