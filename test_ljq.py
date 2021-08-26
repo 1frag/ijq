@@ -1,5 +1,4 @@
 import ijq
-import json
 
 
 def test_main():
